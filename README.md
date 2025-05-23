@@ -41,7 +41,7 @@ The primary objective of this project is to create an interactive and visually a
 - Power BI: For data visualization and dashboard creation.
 - Data Source: Simulated financial and transactional data.
 ## 💡 Insights Gained
-- The Blue card category generates the highest revenue and transaction volume.
+- The Blue card category contributes the highest revenue and has the largest transaction volume.
 - Customers with graduate education contribute significantly to the revenue.
 - Businessmen and white-collar professionals are the top revenue-generating job roles.
 - The 30-40 age group has the highest revenue contribution.
